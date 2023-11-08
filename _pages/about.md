@@ -48,7 +48,7 @@ Industrial Organization, Econometrics, Health Economics
 ## Working papers
 
 **Fear or Knowledge? The Impact of Graphic cigarette Warnings on Tobacco Product Choices**
-(Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng)
+Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng
 **[[NBER Working Paper](https://www.nber.org/papers/w31534)]**
 Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices)
 
