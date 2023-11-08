@@ -12,20 +12,21 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 <!-- bundle exec jekyll serve
 bin/deploy --user
 git push -->
 
-## **Sen Zeng**
 
 I am a 4th year economics Ph.D. Candidate at Cornell University, I am also affilated with Jeb E. Brooks School of Public Policy at Cornell. 
 
 My research interests lie in the intersection of industrial organization and econometrics, with applications pramarily in health economics. 
 
 I am under the supervision of Francesca Molinari, Levon Barseghyan, and Colleen Carey.
+
+Email: sz626@cornell.edu
 
 ## Research Interests
 
@@ -42,6 +43,7 @@ Industrial Organization, Econometrics, Health Economics
 **Demand For Stigmatized Products: The Case of Fukushima Rice**  
 (with Satoru Shimokawa)
 
+<br><br>
 
 ## Working papers
 
@@ -53,6 +55,8 @@ Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-c
 **Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes**
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng
 **Draft coming soon!**
+
+<br><br>
 
 ## Publications
 
