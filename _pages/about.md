@@ -21,7 +21,11 @@ git push -->
 
 ## **Sen Zeng**
 
-I am a 4th year economics Ph.D. Candidate at Cornell University, I am also affilated with Jeb E. Brooks School of Public Policy at Cornell. My research interests lie in the intersection of industrial organization and econometrics, with applications pramarily in health economics. I am under the supervision of Francesca Molinari, Levon Barseghyan, and Colleen Carey.
+I am a 4th year economics Ph.D. Candidate at Cornell University, I am also affilated with Jeb E. Brooks School of Public Policy at Cornell. 
+
+My research interests lie in the intersection of industrial organization and econometrics, with applications pramarily in health economics. 
+
+I am under the supervision of Francesca Molinari, Levon Barseghyan, and Colleen Carey.
 
 ## Research Interests
 
