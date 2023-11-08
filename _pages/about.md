@@ -22,11 +22,11 @@ git push -->
 
 I am a 4th year economics Ph.D. Candidate at Cornell University, I am also affilated with Jeb E. Brooks School of Public Policy at Cornell. 
 
-My research interests lie in the intersection of industrial organization and econometrics, with applications pramarily in health economics. 
+My research interests lie in the intersection of industrial organization and econometrics, with applications primarily in health economics. 
 
 I am under the supervision of Francesca Molinari, Levon Barseghyan, and Colleen Carey.
 
-Email: sz626@cornell.edu
+Email: [sz626@cornell.edu](sz626@cornell.edu)
 
 ## Research Interests
 
@@ -43,20 +43,20 @@ Industrial Organization, Econometrics, Health Economics
 **Demand For Stigmatized Products: The Case of Fukushima Rice**  
 (with Satoru Shimokawa)
 
-<br><br>
+<br>
 
 ## Working papers
 
 **Fear or Knowledge? The Impact of Graphic cigarette Warnings on Tobacco Product Choices**
-Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng
-**[NBER Working Paper](https://www.nber.org/papers/w31534)**
+(Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng)
+**[[NBER Working Paper](https://www.nber.org/papers/w31534)]**
 Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices)
 
 **Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes**
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng
 **Draft coming soon!**
 
-<br><br>
+<br>
 
 ## Publications
 
