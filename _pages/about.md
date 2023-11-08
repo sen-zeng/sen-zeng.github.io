@@ -43,12 +43,12 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 
 ## Working papers
 
-**Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices**
+**Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
 [[NEBR Working Paper](https://www.nber.org/papers/w31534)]\
 Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)  
 
-**Understanding Demand for an Illegal Market: The Prohibition of Menthol Cigarettes**
+**Understanding Demand for an Illegal Market: The Prohibition of Menthol Cigarettes** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng\
 [Draft coming soon!]
 
@@ -56,7 +56,7 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 
 ## Publications
 
-**[The Effect of Health Information on Smoking Intensity: Does Addiction Matter?](https://doi.org/10.1080/00036846.2019.1691141)**
+**[The Effect of Health Information on Smoking Intensity: Does Addiction Matter?](https://doi.org/10.1080/00036846.2019.1691141)** \
 Sen Zeng, Satoru Shimokawa. (2019) \
 **Applied Economics**
 
