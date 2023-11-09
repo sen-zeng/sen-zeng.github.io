@@ -20,7 +20,7 @@ bin/deploy --user
 git push -->
 
 
-I am a 4th year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb. E Brooks School of Public Policy at Cornell.
+I am a 4th-year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb E. Brooks School of Public Policy at Cornell.
 
 My research interests lie in the intersection of industrial organization and econometrics, with applications primarily in health economics.
 
@@ -48,7 +48,7 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 [[NEBR Working Paper](https://www.nber.org/papers/w31534)]\
 Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)  
 
-**Understanding Demand for an Illegal Market: The Prohibition of Menthol Cigarettes** \
+**Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng\
 [Draft coming soon!]
 
