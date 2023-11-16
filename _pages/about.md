@@ -45,8 +45,8 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 
 **Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
-[[NEBR Working Paper](https://www.nber.org/papers/w31534)]\
-Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)  
+[[PDF](https://raw.githack.com/sen-zeng/sen-zeng.github.io/master/assets/pdf/NBERw31354.pdf.pdf)][[NEBR WP](https://www.nber.org/papers/w31534)]\
+Media: [[VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]  
 
 **Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng\
