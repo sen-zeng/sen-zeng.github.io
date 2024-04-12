@@ -53,12 +53,19 @@ Abstract: Requiring graphic warning labels (GWLs) on cigarette packaging has bec
 **Aggregate Discrete Choice Demand Models with Unobserved Choice Sets**  
 
 **Demand for Stigmatized Products: The Case of Fukushima Rice** \
-(with Satoru Shimokawa) \
-[Preliminary draft available upon request]
+(with Satoru Shimokawa)
+
+**Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
+(with Donald Kenkel, Alan Mathios)
+
+**Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
+(with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
+
+**Cigarette and Heated Tobacco Product Use in Japan: The Role of Flavored Products** \
+(with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
 
 **Attention and Consideration in Discrete Choice Experiments** \
-(with Donald Kenkel, Alan Mathios, Hua Wang) \
-[Preliminary draft available upon request]
+(with Donald Kenkel, Alan Mathios, Hua Wang) 
 
 <br>
 
