@@ -20,7 +20,7 @@ bin/deploy --user
 git push -->
 
 
-I am a 4th-year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb E. Brooks School of Public Policy at Cornell.
+I am a 5th-year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb E. Brooks School of Public Policy at Cornell.
 
 My research interests lie in the intersection of industrial organization and econometrics, with applications primarily in health economics.
 
@@ -28,7 +28,7 @@ I am supervised by Professor Francesca Molinari, Professor Levon Barseghyan, and
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
-<!-- ### [CV](https://raw.githack.com/sen-zeng/sen-zeng.github.io/master/assets/pdf/CV_SenZeng.pdf) -->
+[CV](https://raw.githack.com/sen-zeng/sen-zeng.github.io/master/assets/pdf/CV_SenZeng.pdf)
 
 <br><br><br>
 
@@ -38,8 +38,15 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 
 **Understanding the Demand-Side of an Illegal Market: Prohibition of Menthol Cigarettes** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng\
-[<a href="https://sen-zeng.github.io/assets/pdf/DCEmentholwithAppendix.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32148)] \
-Abstract: The Food and Drug Administration has proposed to prohibit menthol cigarettes, which are smoked by almost 19 million people in the U.S. Illegal markets for menthol cigarettes could not only blunt the prohibition’s intended consequence to reduce smoking but could also lead to unintended consequences. We use data from a discrete choice experiment to estimate a mixed logit model which predicts that the prohibition of menthol cigarettes would substantially increase the fraction of menthol smokers who attempt to quit. However, our model also predicts a substantial potential consumer demand for illegal menthol cigarettes. Depending on the impact of illegality on product prices, our model predicts the potential demand-side of an illegal market for menthol cigarettes could be 59-92 percent the size of the status quo market if menthol e-cigarettes are legal, and 69-100 percent the size of the status quo market if menthol e-cigarettes are also illegal. Our mixed logit model estimated in willingness to pay space implies that the mean WTP to avoid an illegal retail market is equivalent to a tax of $8.44 per pack. In our partial cost-benefit analysis, the opportunity costs of prohibition exceed the value of the reduction in mortality risks from secondhand smoke by $15.4 billion annually.
+**Revise & Resubmit at Health Economics** \
+[<a href="https://sen-zeng.github.io/assets/pdf/DCEmentholwithAppendix.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32148)][Media: [CATO](https://www.cato.org/research-briefs-economic-policy/prohibition-menthol-cigarettes?utm_campaign=Research%20Briefs%20in%20Economic%20Policy&utm_medium=email&_hsenc=p2ANqtz--60fp9A1FBQCF4kpZkqFXCIHqGAaMnLL6khcQz7vlOaMUNCApNxrCR8oTNiqsA1Bbd7Bh8l6Oyz5us1yDZlhw7hbqZ0Q&_hsmi=312518369&utm_content=312518369&utm_source=hs_email)] \
+Abstract: The Food and Drug Administration has proposed to prohibit menthol cigarettes, which are smoked by almost 19 million people. Illegal markets for menthol cigarettes could not only blunt the prohibition’s intended consequence to reduce smoking but could also lead to unintended consequences. We use data from a discrete choice experiment to estimate a mixed logit model which predicts that the prohibition of menthol cigarettes would substantially increase the fraction of menthol smokers who attempt to quit tobacco product use. However, our model also predicts substantial potential consumer demand for illegal menthol cigarettes, especially if menthol e-cigarettes are also illegal.
+
+**Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
+Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
+**Revise & Resubmit at Annals of Public and Cooperative Economics**
+[<a href="https://sen-zeng.github.io/assets/pdf/AustraliaManuscript.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32654)] \
+Abstract: Australia had adopted a novel approach to e-cigarette policy by requiring a physician’s prescription to lawfully obtain nicotine e-cigarettes. We conducted an online discrete choice experiment to gauge how adult Australian smokers made hypothetical choices between cigarettes, prescription e-cigarettes, non-prescription e-cigarettes, and quitting. We estimate a mixed logit model, which allows us to predict the market shares under different policy scenarios. The mixed logit model also provides estimates of consumer willingness to pay for the benefits from the prescription status of e-cigarettes and the costs of illegal e-cigarette markets. We estimate that the average utility loss from an illegal retail market is worth AU$ 7.90 per pack-equivalent. We use the corresponding estimates of the compensating variations in income to conduct cost-benefit analyses of possible reforms to Australian e-cigarette regulation. In aggregate, we estimate that the benefits of allowing but not requiring prescriptions of e-cigarettes are AU$1.8 billion per year. Our paper provides a novel contribution to research on e-cigarette regulation and provides a case study for the policy implementation in Australia. Our paper is also part of our research agenda to explore and develop methods to conduct policy analysis and cost-benefit analysis of regulatory policies that might create illegal markets.
 
 **Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
@@ -57,9 +64,6 @@ Abstract: Requiring graphic warning labels (GWLs) on cigarette packaging has bec
 
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
 (with Donald Kenkel, Alan Mathios)
-
-**Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
-(with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
 
 **Cigarette and Heated Tobacco Product Use in Japan: The Role of Flavored Products** \
 (with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
