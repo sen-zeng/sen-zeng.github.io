@@ -65,7 +65,7 @@ Abstract: Requiring graphic warning labels (GWLs) on cigarette packaging has bec
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
 (with Donald Kenkel, Alan Mathios)
 
-**Cigarette and Heated Tobacco Product Use in Japan: The Role of Flavored Products** \
+**Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
 (with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
 
 **Attention and Consideration in Discrete Choice Experiments** \
