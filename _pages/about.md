@@ -28,7 +28,7 @@ I am supervised by Professor Francesca Molinari, Professor Levon Barseghyan, and
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
-[CV](https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf)
+[[CV](https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf)]
 
 <br><br><br>
 
@@ -44,7 +44,7 @@ Abstract: The Food and Drug Administration has proposed to prohibit menthol ciga
 
 **Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
-**Revise & Resubmit at Annals of Public and Cooperative Economics**
+**Revise & Resubmit at Annals of Public and Cooperative Economics** \
 [<a href="https://sen-zeng.github.io/assets/pdf/AustraliaManuscript.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32654)] \
 Abstract: Australia had adopted a novel approach to e-cigarette policy by requiring a physician’s prescription to lawfully obtain nicotine e-cigarettes. We conducted an online discrete choice experiment to gauge how adult Australian smokers made hypothetical choices between cigarettes, prescription e-cigarettes, non-prescription e-cigarettes, and quitting. We estimate a mixed logit model, which allows us to predict the market shares under different policy scenarios. The mixed logit model also provides estimates of consumer willingness to pay for the benefits from the prescription status of e-cigarettes and the costs of illegal e-cigarette markets. We estimate that the average utility loss from an illegal retail market is worth AU$ 7.90 per pack-equivalent. We use the corresponding estimates of the compensating variations in income to conduct cost-benefit analyses of possible reforms to Australian e-cigarette regulation. In aggregate, we estimate that the benefits of allowing but not requiring prescriptions of e-cigarettes are AU$1.8 billion per year. Our paper provides a novel contribution to research on e-cigarette regulation and provides a case study for the policy implementation in Australia. Our paper is also part of our research agenda to explore and develop methods to conduct policy analysis and cost-benefit analysis of regulatory policies that might create illegal markets.
 
