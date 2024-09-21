@@ -28,7 +28,7 @@ I am supervised by Professor Francesca Molinari, Professor Levon Barseghyan, and
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
-[[CV](https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf)]
+[<a href="https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf" target="_blank">CV</a>]
 
 <br><br><br>
 
