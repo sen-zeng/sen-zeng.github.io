@@ -24,7 +24,7 @@ I am a 5th-year economics Ph.D. candidate at Cornell University, I am also affil
 
 My research interests lie in the intersection of industrial organization and econometrics, with applications primarily in health economics.
 
-I am supervised by Professor Francesca Molinari, Professor Levon Barseghyan, and Professor Colleen Carey.
+I am supervised by Professor [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), Professor [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), and Professor [Colleen Carey](https://sites.google.com/site/colleenmariecarey/).
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
