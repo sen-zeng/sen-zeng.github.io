@@ -23,7 +23,7 @@ git push -->
 I am a 5th-year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb E. Brooks School of Public Policy at Cornell.
 
 My research interests lie in the intersection of industrial organization and econometrics, with applications primarily in health economics. \
-**Topics**: (1) Demand estimation, discrete choice models; (2) The economics of smoking, application of discrete choice experiments in tobacco regulations. \
+**Topics**: (1) Demand estimation, discrete choice models; (2) The economics of smoking, application of discrete choice experiments. \
 **Methods**: Structural Model; Causal Inference, Machine Learning, Field Experiment.
 
 I am supervised by Professor [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), Professor [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), and Professor [Colleen Carey](https://sites.google.com/site/colleenmariecarey/).
