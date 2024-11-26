@@ -62,7 +62,7 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 (with Satoru Shimokawa)
 
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
-(with Donald Kenkel, Alan Mathios)
+(with Donald Kenkel, Alan Mathios, Hua Wang)
 
 **Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
 (with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
