@@ -45,7 +45,7 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 
 **Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
-**Revise & Resubmit at Annals of Public and Cooperative Economics** \
+**Accepted at Annals of Public and Cooperative Economics** \
 [<a href="https://sen-zeng.github.io/assets/pdf/AustraliaManuscript.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32654)]
 
 **Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
