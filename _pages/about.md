@@ -52,6 +52,10 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
 [<a href="https://sen-zeng.github.io/assets/pdf/JLEresubmitnoappendixnew.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/JLEOnlineAppendix.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w31534)][Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]
 
+**Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
+Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
+[<a href="https://sen-zeng.github.io/assets/pdf/DCE_JManuscript.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/DCE_JOnlineAppendix_AE.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w33301)]
+
 <br>
 
 ## Work in Progress
@@ -63,9 +67,6 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
 (with Donald Kenkel, Alan Mathios, Hua Wang)
-
-**Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
-(with Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang)
 
 **Attention and Consideration in Discrete Choice Experiments** \
 (with Donald Kenkel, Alan Mathios, Hua Wang) 
