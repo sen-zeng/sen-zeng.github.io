@@ -43,11 +43,6 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 **Accepted at Health Economics** \
 [<a href="https://sen-zeng.github.io/assets/pdf/DCEmentholwithAppendix.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32148)][Media: [CATO](https://www.cato.org/research-briefs-economic-policy/prohibition-menthol-cigarettes?utm_campaign=Research%20Briefs%20in%20Economic%20Policy&utm_medium=email&_hsenc=p2ANqtz--60fp9A1FBQCF4kpZkqFXCIHqGAaMnLL6khcQz7vlOaMUNCApNxrCR8oTNiqsA1Bbd7Bh8l6Oyz5us1yDZlhw7hbqZ0Q&_hsmi=312518369&utm_content=312518369&utm_source=hs_email)]
 
-**Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia** \
-Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
-**Accepted at Annals of Public and Cooperative Economics** \
-[<a href="https://sen-zeng.github.io/assets/pdf/AustraliaManuscript.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32654)]
-
 **Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
 [<a href="https://sen-zeng.github.io/assets/pdf/JLEresubmitnoappendixnew.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/JLEOnlineAppendix.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w31534)][Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]
@@ -74,6 +69,12 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 <br>
 
 ## Publications
+
+**[Just What the Doctor Ordered? The Benefits and Costs of E-Cigarette Regulation in Australia](http://doi.org/10.1111/apce.12495)** \
+Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng. (2024) \
+**Annals of Public and Cooperative Economics** \
+[<a href="https://sen-zeng.github.io/assets/pdf/AustraliaManuscript.pdf" target="_blank">PDF</a>][[NBER WP](https://www.nber.org/papers/w32654)]
+
 
 **[The Effect of Health Information on Smoking Intensity: Does Addiction Matter?](https://doi.org/10.1080/00036846.2019.1691141)** \
 Sen Zeng, Satoru Shimokawa. (2019) \
