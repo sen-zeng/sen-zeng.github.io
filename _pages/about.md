@@ -39,7 +39,7 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 **Demand for Stigmatized Products: The Case of Fukushima Rice** \
 (with Satoru Shimokawa)
 
-**Aggregate Discrete Choice Demand Models with Unobserved Choice Sets** \
+**Aggregate Discrete Choice Demand Models with Unobserved Choice Sets**
 
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
 (with Donald Kenkel, Alan Mathios, Hua Wang)
