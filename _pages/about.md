@@ -30,13 +30,24 @@ I am supervised by Professor [Francesca Molinari](https://molinari.economics.cor
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
-[<a href="https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf" target="_blank">CV</a>]
+<!-- ###[<a href="https://sen-zeng.github.io/assets/pdf/CV_SenZeng.pdf" target="_blank">CV</a>]-->
 
 <br><br><br>
 
-## Working Papers
+## Working Papers / Work in Progress
 
 <!-- ###[<a href="https://sen-zeng.github.io/assets/pdf/NBERw31534.pdf" target="_blank">PDF</a>]-->
+
+**Demand for Stigmatized Products: The Case of Fukushima Rice** \
+(with Satoru Shimokawa)
+
+**Aggregate Discrete Choice Demand Models with Unobserved Choice Sets** \
+
+**Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
+(with Donald Kenkel, Alan Mathios, Hua Wang)
+
+**Attention and Consideration in Discrete Choice Experiments** \
+(with Donald Kenkel, Alan Mathios, Hua Wang) 
 
 **Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
@@ -45,21 +56,6 @@ Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Se
 **Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
 [<a href="https://sen-zeng.github.io/assets/pdf/DCE_JManuscript.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/DCE_JOnlineAppendix_AE.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w33301)]
-
-<br>
-
-## Work in Progress
-
-**Aggregate Discrete Choice Demand Models with Unobserved Choice Sets**  
-
-**Demand for Stigmatized Products: The Case of Fukushima Rice** \
-(with Satoru Shimokawa)
-
-**Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
-(with Donald Kenkel, Alan Mathios, Hua Wang)
-
-**Attention and Consideration in Discrete Choice Experiments** \
-(with Donald Kenkel, Alan Mathios, Hua Wang) 
 
 <br>
 
