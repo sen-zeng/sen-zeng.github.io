@@ -20,11 +20,13 @@ bin/deploy --user
 git push -->
 
 
-I am a 5th-year economics Ph.D. candidate at Cornell University, I am also affiliated with the Jeb E. Brooks School of Public Policy at Cornell.
+5th-year Ph.D. candidate \
+Department of Economics | Jeb E. Brooks School of Public Policy \
+Cornell University
 
-Research interests: Industrial organization; Econometrics; Health economics.
+Fields: Industrial organization; Health economics.
 
-I am supervised by Professor [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), Professor [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), and Professor [Colleen Carey](https://sites.google.com/site/colleenmariecarey/).
+Advisors: Professor [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), Professor [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), and Professor [Colleen Carey](https://sites.google.com/site/colleenmariecarey/).
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
