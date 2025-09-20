@@ -39,7 +39,7 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 **Demand for Stigmatized Products: The Case of Fukushima Rice** \
 (with Satoru Shimokawa) \
 Abstract: Consumers often choose in markets feature products whose true quality is hard to verify, and beliefs are noisy. After salient safety shocks, demand can fall sharply even when objective risk is low. This paper explores the aftermath of the 2011 Fukushima Nuclear Power Plant Accident in Japan, focusing on demand for rice labeled as originating from Fukushima prefecture. We estimate a structural model of demand and supply with scanner data of Japanese rice products to study the impact of the nuclear accident on Fukushima rice. Our discrete choice demand model incorporates a limited consideration component for the focal brand (Fukushima rice), and we find the rice market exhibits full consideration. We decompose the falling demand into two channels, we find that consumer perception accounts for 90% of the decline in demand of
-Fukushima rice, and retailer product assortment contributes 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
+Fukushima rice and retailer product assortment contribute 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
 
 
 ## Working Papers / Work in Progress
