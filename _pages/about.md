@@ -20,7 +20,7 @@ bin/deploy --user
 git push -->
 
 
-5th-year Ph.D. candidate \
+Ph.D. candidate on the 2025-2026 job market \
 Department of Economics | Jeb E. Brooks School of Public Policy \
 Cornell University
 
@@ -34,13 +34,17 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 
 <br><br><br>
 
+
+## Job Market Paper
+**Demand for Stigmatized Products: The Case of Fukushima Rice** \
+(with Satoru Shimokawa) \
+Abstract: Consumers often choose in markets feature products whose true quality is hard to verify, and beliefs are noisy. After salient safety shocks, demand can fall sharply even when objective risk is low. This paper explores the aftermath of the 2011 Fukushima Nuclear Power Plant Accident in Japan, focusing on demand for rice labeled as originating from Fukushima prefecture. We estimate a structural model of demand and supply with scanner data of Japanese rice products to study the impact of the nuclear accident on Fukushima rice. Our discrete choice demand model incorporates a limited consideration component for the focal brand (Fukushima rice), and we find the rice market exhibits full consideration. We decompose the falling demand into two channels, we find that consumer perception accounts for 90% of the decline in demand of
+Fukushima rice, and retailer product assortment contributes 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
+
+
 ## Working Papers / Work in Progress
 
 <!-- ###[<a href="https://sen-zeng.github.io/assets/pdf/NBERw31534.pdf" target="_blank">PDF</a>]-->
-
-**Demand for Stigmatized Products: The Case of Fukushima Rice** \
-(with Satoru Shimokawa)
-
 **Aggregate Discrete Choice Demand Models with Unobserved Choice Sets**
 
 **Benefit-Cost Analysis of Tobacco Regulations: Quantifying Internalities** \
@@ -49,12 +53,14 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 **Attention and Consideration in Discrete Choice Experiments** \
 (with Donald Kenkel, Alan Mathios, Hua Wang) 
 
-**Fear or Knowledge? The Impact of Graphic Cigarette Warnings on Tobacco Product Choices** \
+**The Impact of Tobacco Regulations on Smoking and Vaping** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
+**R & R @ Southern Economic Journal** \
 [<a href="https://sen-zeng.github.io/assets/pdf/JLEresubmitnoappendixnew.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/JLEOnlineAppendix.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w31534)][Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]
 
 **Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
+**R & R @ Applied Economics** \
 [<a href="https://sen-zeng.github.io/assets/pdf/DCE_JManuscript.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/DCE_JOnlineAppendix_AE.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w33301)]
 
 <br>
