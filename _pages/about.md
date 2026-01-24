@@ -40,7 +40,7 @@ E-mail: [sz626@cornell.edu](sz626@cornell.edu)
 ## Job Market Paper
 **[Stigma, Consideration, or Assortment? Decomposing Demand in the Fukushima Rice Market](https://www.dropbox.com/scl/fi/zc5vrr8nb95c4uyartq6b/Manuscript_Stigma.pdf?rlkey=25vtdbzvpg4q67kqrj9crzlkp&e=2&dl=0)** \
 (with Satoru Shimokawa) \
-Abstract: Consumers often choose under conditions of hard-to-verify quality and noisy beliefs. After salient safety shocks, demand can fall sharply even when objective risk is low. This paper explores the aftermath of the 2011 Fukushima Nuclear Power Plant Accident in Japan, focusing on demand for rice labeled as originating from Fukushima prefecture. We estimate a structural model of demand and supply with scanner data of Japanese rice products to study the impact of the nuclear accident on Fukushima rice. Our discrete choice demand model incorporates a limited consideration component for the focal brand (Fukushima rice) and we provide identification results on the consideration probability with market level data. We cannot reject the hypothesis that the rice market exhibits full consideration concluding that limited considera- tion played a minimal role in this context. We decompose the falling demand into different channels, and we find that consumer perception (stigma) accounts for 90% of the decline in demand for Fukushima rice, and retailer product assortment contributes 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
+Abstract: Consumers often choose under conditions of hard-to-verify quality and noisy beliefs. After salient safety shocks, demand can fall sharply even when objective risk is low. This paper explores the aftermath of the 2011 Fukushima Nuclear Power Plant Accident in Japan, focusing on demand for rice labeled as originating from Fukushima prefecture. We estimate a structural model of demand and supply with scanner data of Japanese rice products to study the impact of the nuclear accident on Fukushima rice. Our discrete choice demand model incorporates a limited consideration component for the focal brand (Fukushima rice), and we provide identification results on the consideration probability with market-level data. We cannot reject the hypothesis that the rice market exhibits full consideration, concluding that limited consideration played a minimal role in this context. We decompose the falling demand into different channels, and we find that consumer perception (stigma) accounts for 90% of the decline in demand for Fukushima rice, and retailer product assortment contributes 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
 
 
 ## Working Papers / Work in Progress
@@ -54,15 +54,15 @@ Abstract: Consumers often choose under conditions of hard-to-verify quality and 
 **Attention and Consideration in Discrete Choice Experiments** \
 (with Donald Kenkel, Alan Mathios, Hua Wang) 
 
-**The Impact of Tobacco Regulations on Smoking and Vaping** \
-Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng \
-**R & R @ Southern Economic Journal** \
-[<a href="https://sen-zeng.github.io/assets/pdf/JLEresubmitnoappendixnew.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/JLEOnlineAppendix.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w31534)][Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]
-
 
 <br>
 
 ## Publications
+
+**[The Impact of Tobacco Regulations on Smoking and Vaping](http://doi.org/10.1002/soej.70019)** \
+Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng. (2026) \
+**Southern Economic Journal** \
+[<a href="https://sen-zeng.github.io/assets/pdf/JLEresubmitnoappendixnew.pdf" target="_blank">PDF</a>][<a href="https://sen-zeng.github.io/assets/pdf/JLEOnlineAppendix.pdf" target="_blank">Online Appendix</a>][[NBER WP](https://www.nber.org/papers/w31534)][Media: [VoxEU](https://cepr.org/voxeu/columns/fear-or-knowledge-impact-graphic-cigarette-warnings-tobacco-product-choices#:~:text=Compared%20to%20those%20who%20were,harmful%20e%2Dcigarettes%20or%20quitting.)]
 
 **[Consumer Preferences for Cigarettes and Heated Tobacco Products in Japan: Evidence from a Discrete Choice Experiment](https://doi.org/10.1080/00036846.2025.2568235)** \
 Donald Kenkel, Alan Mathios, Grace Phillips, Revathy Suryanarayana, Hua Wang, Sen Zeng. (2025) \
