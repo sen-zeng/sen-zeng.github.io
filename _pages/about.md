@@ -24,21 +24,23 @@ Ph.D. candidate on the 2025-2026 job market \
 Department of Economics | Jeb E. Brooks School of Public Policy \
 Cornell University
 
-Fields: Industrial organization; Health economics.
 
-Advisors: [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), and [Colleen Carey](https://sites.google.com/site/colleenmariecarey/).
+Fields: Industrial organization; Health economics. \
+Topics: Applied Microeconomics; Empirical Market Design.
 
-Additional Reference (RA Supervisor): [Donald Kenkel](https://publicpolicy.cornell.edu/people/donald-kenkel/).
+References: [Francesca Molinari](https://molinari.economics.cornell.edu/index.html), [Levon Barseghyan](https://barseghyan.economics.cornell.edu/index.html), [Colleen Carey](https://sites.google.com/site/colleenmariecarey/), and [Donald Kenkel](https://publicpolicy.cornell.edu/people/donald-kenkel/).
 
 E-mail: [sz626@cornell.edu](sz626@cornell.edu)  
 
-[<a href="https://sen-zeng.github.io/assets/pdf/CV_full_SenZeng.pdf" target="_blank">CV</a>]
+<!-- [<a href="https://sen-zeng.github.io/assets/pdf/CV_full_SenZeng.pdf" target="_blank">CV</a>] -->
+[<a href="https://www.dropbox.com/scl/fi/lzn8iyydhqpxn7oguysjn/CV_SenZeng.pdf?rlkey=8e6u50z7u1k2g01o88il7v4l8&dl=0" target="_blank">CV</a>]
+
 
 <br><br><br>
 
 
 ## Job Market Paper
-**[Stigma, Consideration, or Assortment? Decomposing Demand in the Fukushima Rice Market](https://www.dropbox.com/scl/fi/zc5vrr8nb95c4uyartq6b/Manuscript_Stigma.pdf?rlkey=25vtdbzvpg4q67kqrj9crzlkp&e=2&dl=0)** \
+**[Stigma, Consideration, or Assortment? Decomposing the Mechanisms of a Demand Shock](https://www.dropbox.com/scl/fi/zc5vrr8nb95c4uyartq6b/Manuscript_Stigma.pdf?rlkey=25vtdbzvpg4q67kqrj9crzlkp&e=2&dl=0)** \
 (with Satoru Shimokawa) \
 Abstract: Consumers often choose under conditions of hard-to-verify quality and noisy beliefs. After salient safety shocks, demand can fall sharply even when objective risk is low. This paper explores the aftermath of the 2011 Fukushima Nuclear Power Plant Accident in Japan, focusing on demand for rice labeled as originating from Fukushima prefecture. We estimate a structural model of demand and supply with scanner data of Japanese rice products to study the impact of the nuclear accident on Fukushima rice. Our discrete choice demand model incorporates a limited consideration component for the focal brand (Fukushima rice), and we provide identification results on the consideration probability with market-level data. We cannot reject the hypothesis that the rice market exhibits full consideration, concluding that limited consideration played a minimal role in this context. We decompose the falling demand into different channels, and we find that consumer perception (stigma) accounts for 90% of the decline in demand for Fukushima rice, and retailer product assortment contributes 10%. A counterfactual policy that provides a 50% price discount to a focal group of Fukushima rice and blended rice can potentially offset stigma and recover the demand.
 
