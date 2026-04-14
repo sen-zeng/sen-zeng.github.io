@@ -56,6 +56,9 @@ Abstract: Consumers often choose under conditions of hard-to-verify quality and 
 **Attention and Consideration in Discrete Choice Experiments** \
 (with Donald Kenkel, Alan Mathios, Hua Wang) 
 
+**Consumer Tobacco Product Choices in China: The Impact of a Ban on Flavored E-cigarettes** \
+(with Hua Wang, Yuhan Deng, Donald Kenkel, Alan Mathios) \
+[[NBER WP](https://www.nber.org/papers/w35048)]
 
 <br>
 
