@@ -50,11 +50,10 @@ Abstract: Consumers often choose under conditions of hard-to-verify quality and 
 <!-- ###[<a href="https://sen-zeng.github.io/assets/pdf/NBERw31534.pdf" target="_blank">PDF</a>]-->
 **Aggregate Discrete Choice Demand Models with Unobserved Choice Sets**
 
+**Imperfect Attention in Discrete Choice Experiments** 
+
 **Quantifying Internalities: With an Application to Tobacco Regulations** \
 (with Donald Kenkel, Alan Mathios, Hua Wang)
-
-**Attention and Consideration in Discrete Choice Experiments** \
-(with Donald Kenkel, Alan Mathios, Hua Wang) 
 
 **Consumer Tobacco Product Choices in China: The Impact of a Ban on Flavored E-cigarettes** \
 (with Hua Wang, Yuhan Deng, Donald Kenkel, Alan Mathios) \
