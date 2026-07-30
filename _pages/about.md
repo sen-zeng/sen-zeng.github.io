@@ -21,6 +21,7 @@ git push -->
 
 
 I am a Data Scientist / Economist at TikTok \
+I use causal inference, structural models, and machine learning to study marketplace economics, consumer behavior, and governance strategy \
 I received my Ph.D. in Economics from Cornell University in May 2026
 
 
